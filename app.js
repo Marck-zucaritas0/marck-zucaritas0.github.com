@@ -9,7 +9,7 @@ const musicaMeGustasTu = new Audio('Me gustas tu.mp3');
 // Si acepta: 
 btnSi.addEventListener('click', ()=>{
     randomPic.src = '0.jpg';
-    question.innerText = ' Uwu!!!!! :3 ';
+    question.innerText = ' Te amo mary !!! :3 ';
     question.classList.add('question-style');
 
     btnSi.style.display = 'none';
